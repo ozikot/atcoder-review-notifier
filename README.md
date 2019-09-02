@@ -1,4 +1,4 @@
-# atcoder-review-notificator  
+# atcoder-review-notifier  
 Tool for reviewing problems solved with AtCoder on a regular basis.  
 Notify solved problems 3 to 2 weeks ago by Slack.  
   
