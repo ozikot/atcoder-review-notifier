@@ -1,4 +1,4 @@
-module github.com/ozikot/atcoder-review-notificator
+module github.com/ozikot/atcoder-review-notifier
 
 go 1.12
 
